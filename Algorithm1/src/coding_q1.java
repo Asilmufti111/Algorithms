@@ -1,4 +1,11 @@
+/*
+Chocolate bar puzzle Given an n-by-m chocolate bar,
+you need to break it into nm 1-by-1 pieces.
+You can break a bar only in a straight line,
+and only one bar can be broken at a time.
 
+Design an algorithm that solves the problem with the minimum number of bar breaks. 
+*/
 import java.util.Scanner;
 
 public class coding_q1 {
